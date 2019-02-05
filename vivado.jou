@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Thu Dec  7 17:07:03 2017
+# Process ID: 12628
+# Current directory: D:/BoisseGibson_CMPEN331_FinalProject/Final
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2956 D:\BoisseGibson_CMPEN331_FinalProject\Final\Final.xpr
+# Log file: D:/BoisseGibson_CMPEN331_FinalProject/Final/vivado.log
+# Journal file: D:/BoisseGibson_CMPEN331_FinalProject/Final\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/BoisseGibson_CMPEN331_FinalProject/Final/Final.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config D:/BoisseGibson_CMPEN331_FinalProject/Final/Testbench_behav.wcfg
+source Testbench.tcl
+save_wave_config {D:/BoisseGibson_CMPEN331_FinalProject/Final/Testbench_behav.wcfg}
+open_run synth_1 -name synth_1
+open_run impl_1
+current_design synth_1
+current_design impl_1

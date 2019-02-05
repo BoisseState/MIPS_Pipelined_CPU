@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Thu Dec  7 16:59:17 2017
+# Process ID: 5724
+# Current directory: D:/BoisseGibson CMPEN 331 Final Project/Final/Final.runs/impl_1
+# Command line: vivado.exe -log CPU.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source CPU.tcl -notrace
+# Log file: D:/BoisseGibson CMPEN 331 Final Project/Final/Final.runs/impl_1/CPU.vdi
+# Journal file: D:/BoisseGibson CMPEN 331 Final Project/Final/Final.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source CPU.tcl -notrace
